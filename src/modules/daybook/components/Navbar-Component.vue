@@ -9,7 +9,9 @@
             </a>
 
             <div class="d-flex">
-                <button class="btn btn-outline-info me-2">Logout</button>
+                <button class="btn btn-outline-info me-2">
+                    <i class="fa fa-sign-out-alt "><span class="ms-1">Logout</span></i>
+                </button>
             </div>
     </nav>
 </template>
